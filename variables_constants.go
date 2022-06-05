@@ -12,6 +12,7 @@ func main() {
 	fmt.Println("pi2:", pi2)
 
 	// Integer variables declaration
+	// (:=) is the short assignment operator for declare a variable by first time
 	base := 12
 	var height int = 14
 	var area int
