@@ -46,7 +46,7 @@ func main() {
 	fmt.Println("Rectangle area: ", area)
 
 	// Trapezoid area
-	area = (x + y) * 2
+	area = ((x + y) * 2) / 2
 	fmt.Println("Trapezoid area: ", area)
 
 	// Circle area
